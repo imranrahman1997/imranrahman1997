@@ -1,10 +1,12 @@
-### Hi there 👋
+## Bio
 
-:
+🎓 Currently pursuing my Master's in **Medical Life Sciences** at **Kiel University**.
 
-- 🔭 I’m currently working on Machine Learning and Deep learning
-- 🌱 I’m currently learning Deep learning and statistical analysis
-- 🤔 I’m looking for help with AI
-- 💬 Ask me about machine learning/deep learning
-- 📫 How to reach me: Gmail: imran.bge.06@gmail.com
-- ⚡ Fun fact: I do lots of staff
+🔬 My main research interests include:
+- **CRISPR**: Exploring the potential of gene editing technologies in medical applications.
+- **Bioinformatics**: Applying computational techniques to analyze biological data and uncover insights in genomics and molecular biology.
+- **AI**: Leveraging artificial intelligence to solve complex problems in bioinformatics and healthcare.
+
+🌱 Passionate about advancing scientific knowledge through interdisciplinary approaches, combining **AI**, **genetics**, and **bioinformatics** to push the boundaries of modern medicine.
+
+💬 Feel free to connect with me for collaborations, discussions, and research opportunities in these exciting fields!
